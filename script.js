@@ -1,4 +1,4 @@
-const accessKey = "MgoF2YYky-ztFhEW5BnpScNi2lA9LzvPaiBP9ntTWI4";
+const accessKey = "ENTER UNSPALSH API KEY HERE";
 
 const searchForm = document.getElementById("search-form");
 const SearchBox = document.getElementById("search-box");
